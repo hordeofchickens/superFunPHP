@@ -1,4 +1,5 @@
 <?php
+	echo 'AAAAAAAAAAAAAAAAAAAA!!!!!!!!!';
 	require ("includes/functions.php");
 	
 	if (is_logged_in())
